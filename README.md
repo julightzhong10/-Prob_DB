@@ -1,5 +1,5 @@
 [//]: <links>
-[report]: https://julightzhong10.github.io/project/probalistic_database/Probalistic_Database.pdf
+[Report]: https://julightzhong10.github.io/project/probalistic_database/Probalistic_Database.pdf
 
 # A Probabilistic Database System with MySQL supporting lift rules for first-order logic in Python
 
@@ -33,3 +33,4 @@ $ python ./run.py --query ./sample_quries/test0.txt --table ./sample_tables/tP.t
     result: [[('Q', ['x'])]] : 0.9030
 
 ```
+Authors: Xufan Wang, Jiachen Zhong, Zixiang Liu, Weijia Yuan
